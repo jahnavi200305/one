@@ -214,6 +214,7 @@
         <form>
             <input type="text" placeholder="Your Name" required>
             <input type="email" placeholder="Your Email" required>
+            <input type="number" placeholder="Your number" required>
             <textarea placeholder="Your Message" rows="5" required></textarea>
             <button type="submit">Send Message</button>
         </form>
